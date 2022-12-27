@@ -2,7 +2,7 @@
 
 ## Background
 
-This analysis was performed for a group project of CS3613: Introduction to Artificial Intelligence, based OpenAI Gym's Taxi environment.
+This analysis was performed for a group project of CS3613: Introduction to Artificial Intelligence, based on OpenAI Gym's Taxi environment.
 
 ### Introduction
 
